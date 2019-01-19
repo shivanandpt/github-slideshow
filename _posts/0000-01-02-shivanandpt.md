@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Rock the code not the coder 
 Use the left arrow to go back!
